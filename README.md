@@ -17,10 +17,10 @@ This project introduces a Cloud-Based Smart Object Locator system that allows us
 ## System Architecture
 The system architecture bridges the cloud interface with the embedded hardware unit.
 
-![Methodology](assets/methodology.png)
+![Methodology](assets/methodology.png)  
 *Figure: The system methodology and cloud communication flow.*
 
-![Firebase Database](assets/firebase.png)
+![Firebase Database](assets/firebase.png)  
 *Figure: The Firebase Realtime Database structure managing component metadata and selection index.*
 
 ## Web Frontend Interface
@@ -38,8 +38,3 @@ The ESP32 microcontroller manages the LED strip animations and polls the Firebas
 
 ![GUI Logic](assets/gui_logic.png)
 *Figure: Detailed view of the LED mapping and GUI logic implementation.*
-
-
-* [cite_start]**Mobile App Integration:** Developing a native Android/iOS application using Flutter or React Native for better accessibility[cite: 961].
-* [cite_start]**Smart Sensors:** Integrating IR or ultrasonic sensors to intelligently track the real-time presence of objects within each box[cite: 964].
-* [cite_start]**Voice Control:** Implementing voice commands via Google Assistant or Alexa to locate items hands-free[cite: 967.
