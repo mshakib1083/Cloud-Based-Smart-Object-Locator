@@ -33,8 +33,8 @@ The web interface acts as the primary interaction point, allowing users to authe
 ## Hardware Implementation
 The ESP32 microcontroller manages the LED strip animations and polls the Firebase database for updates.
 
-![Hardware Setup](assets/hardware.png)
+![Hardware Setup](assets/hardware.png)  
 *Figure: Physical setup including the grid of storage boxes and the ESP32 breadboard circuit.*
 
-![GUI Logic](assets/gui_logic.png)
+![GUI Logic](assets/gui_logic.png)  
 *Figure: Detailed view of the LED mapping and GUI logic implementation.*
